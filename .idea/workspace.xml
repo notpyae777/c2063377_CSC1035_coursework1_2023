@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="659cb913-1f8e-4376-95a5-b500c88a69f8" name="Changes" comment="AuctionHouse coursework 2023">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csc1035 coursework AuctionHouse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/csc1035 coursework AuctionHouse.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AuctionhouseItemReport/AuctionHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/AuctionhouseItemReport/AuctionHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AuctionhouseItemReport/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/AuctionhouseItemReport/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AuctionhouseItemReport/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/AuctionhouseItemReport/Report.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO/AuctionHouse1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/IO/AuctionHouse1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO/AuctionHouse2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/IO/AuctionHouse2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO/AuctionHouse3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/IO/AuctionHouse3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO/Item1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/IO/Item1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO/Item2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/IO/Item2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO/Item3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/IO/Item3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO/Reflective Report" beforeDir="false" afterPath="$PROJECT_DIR$/Coursework/IO/Reflective Report" afterDir="false" />
-    </list>
+    <list default="true" id="659cb913-1f8e-4376-95a5-b500c88a69f8" name="Changes" comment="AuctionHouse coursework 2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +43,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -148,7 +135,7 @@
       <workItem from="1676905480442" duration="9171000" />
       <workItem from="1676988656428" duration="2245000" />
       <workItem from="1676991504961" duration="2000" />
-      <workItem from="1676991543221" duration="348000" />
+      <workItem from="1676991543221" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="AuctionHouse coursework 2023">
       <created>1676990497552</created>
@@ -157,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676990497552</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AuctionHouse coursework 2023">
+      <created>1676992099575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676992099575</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
