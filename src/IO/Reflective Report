@@ -1,0 +1,10 @@
+This AuctionHouse project is aimed to reveal details of the items and the AuctionHouse itself. This coding's main purposes
+are to get (the record sale, price of the record sale item and average price of the item and List of all items sold by the
+auction house with a price greater than a given amount of money)-> code is written under AuctionhouseItemReport Package in
+the AuctionHouse class. Another main purpose of the code is to get ( name of item, customer's name, lot number, price and year)
+-> code is written under AuctionhouseItemReport Package in the Item class. The IO package holds more AuctionHouse and Item classes
+which will run the code.
+
+ Overall this project is really fun to learn and helped improve my abilities in using Intellij Idea(Java).
+This is my first time coding Java so I have some disadvantages but i tried my best. I would definitely try to get more knowledge
+out of Java which will definitely improve my skills on it in the future.
